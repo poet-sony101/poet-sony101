@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://wa.me/+2349159767637">💬 WhatsApp</a> • 
-  <a href="mailto:sonymaxwellie14@gmail.com">📬 Email</a> • 
-  <a href="https://linkedin.com">💼 LinkedIn</a> • 
-  <a href="https://twitter.com">🐦 Twitter</a>
+  <a href="mailto:amaooluwaniyi18@gmail.com">📬 Email</a> • 
+  <a href="https://www.linkedin.com/in/oluwaniyiamao/">💼 LinkedIn</a> • 
+  <a href="https://x.com/buildwithsony/">🐦 Twitter</a>
 </p>
