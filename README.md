@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Oluwaniyi+Amao+(Poet+Sony)+%F0%9F%91%8B;Senior+Full-Stack+Software+Engineer;Applied+Physics+Scholar+%40+UNILAG;Senior+Web+Developer+%40+Fat+Rooster;Lead+Engineer+%40+Fubbox+(ex-StoqBox);4x+Competitive+Hackathon+Finalist;MacBook+Hardware+Repair+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Oluwaniyi+Amao+(Poet+Sony)+%F0%9F%91%8B;Senior+Full-Stack+Software+Engineer;Applied+Physics+Scholar+%40+UNILAG;Senior+Web+Developer+%40+Fat+Rooster;Lead+Engineer+%40+Fubbox+(ex-StoqBox);Architect+%40+Available+Tech;4x+Competitive+Hackathon+Finalist;MacBook+Hardware+Repair+Specialist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-18181b?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Education-UNILAG%20%E2%80%A2%20Applied%20Physics-18181b?style=flat-square" alt="Education" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20%E2%80%A2%2017%2B%20Clients-18181b?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20%E2%80%A2%2018%2B%20Clients-18181b?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Open%20to%20Roles-059669?style=flat-square" alt="Status" />
 </p>
 
@@ -26,7 +26,7 @@
 
 I am a **Senior Full-Stack Software Engineer** and **Applied Physics Scholar at the University of Lagos (UNILAG)**. I bridge rigorous first-principles scientific methodology with production software architecture to build fast, scalable, and resilient digital products.
 
-- 🔭 **Currently Leading:** Senior Web Developer at **Fat Rooster** (`@fatrooster.ng`) & Lead Engineer at **Fubbox** (formerly StoqBox).
+- 🔭 **Currently Leading:** Senior Web Developer at **Fat Rooster** (`@fatrooster.ng`), Lead Engineer at **Fubbox** (formerly StoqBox), and Architect of **Available Tech** (`availabletech.ng`).
 - ⚙️ **Core Architectural Focus:** Next.js 16 + React 19 storefronts, real-time bidirectional WebSockets, high-concurrency subscription engines, and offline-first PWAs.
 - 🔬 **The Physics Edge:** Approaching software through physical intuition—viewing application state as thermodynamic equilibria, network traffic as fluid dynamics, and database queries as optimal trajectories.
 - ⚡ **Hardware Mastery:** Specialized in Apple MacBook logic board repairs, micro-soldering, and component-level electronics diagnostics (trained at **IFEOTECH**).
@@ -34,13 +34,15 @@ I am a **Senior Full-Stack Software Engineer** and **Applied Physics Scholar at 
 
 ---
 
-### ⚡ Active Roles & Engagements
+### ⚡ Active Roles & Key Commercial Deliveries
 
 | Organization | Role | Key Contributions | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| **Available Tech** *(New Dawn Technologies)* | **Full-Stack Web Developer & IT Systems** <br> *(2022 — Present)* | Architected Computer Village's premier Apple-style technology catalog & inquiry platform (`availabletech.ng`) on Next.js 16.2 + React 19, zero-config cloud store persistence, and WhatsApp price routing; enterprise hardware diagnostics. | `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Supabase` |
 | **Fat Rooster** (`@fatrooster.ng`) | **Senior Web Developer** <br> *(Oct 2026 — Present)* | Architecting Next.js 16 storefront, live category filtering, customizable spice matrix, slide-out cart drawer, and automated WhatsApp order routing for Lekki & Elegushi locations. | `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `WhatsApp API` |
 | **Fubbox** *(formerly StoqBox)* | **Full-Stack Software Engineer** <br> *(Sept 2026 — Present)* | Engineering Nigeria's premier staple grocery subscription platform with custom bundle builders, Save & Pay installment plans, PWA offline carts, and dispatch telemetry. | `React 19` `TypeScript` `Tailwind v4` `Node.js` `Supabase` `PWA` |
 | **Amaoso Solar Technology** | **Full-Stack Web Engineer** <br> *(Sept 2026 — Present)* | Engineered industrial B2B portal featuring an interactive solar lighting wattage & diesel fuel savings calculator, multi-depot inventory, and automated RFQ wizard. | `React 19` `TypeScript` `Vite` `Tailwind v4` `B2B Systems` |
+| **Ezeougu's J Portfolio** | **Web Developer & UI/UX Designer** <br> *(Oct 2026)* | Designed & engineered bespoke personal brand website, motion graphics showcase gallery, multi-channel booking funnel, and authentic CV integration for video editor Ezeougu Joshua. | `HTML5` `CSS3` `JavaScript` `UI/UX Design` `Client Portfolio` |
 | **Hedge Computers** | **Full-Stack Developer** <br> *(Sept 2026 — Oct 2026)* | Built Computer Village's premier laptop dealership portal with multi-spec search engines, real-time Supabase inventory catalogs, and direct WhatsApp sales workflows. | `Next.js` `React` `TypeScript` `Supabase` `Framer Motion` |
 | **IFEOTECH** | **MacBook Repair Specialist** <br> *(Oct 2026)* | Intensive hardware engineering focused on Apple logic board micro-soldering, power rail troubleshooting, component fault tracing, and device restoration. | `Logic Board Diagnostics` `Micro-soldering` `Hardware Repairs` |
 
