@@ -32,7 +32,7 @@ I am an **Entrepreneur, Founder & CEO**, **Senior Full-Stack Software Engineer**
   - **Available Tech** ([available-tech.vercel.app](https://available-tech.vercel.app/)) &mdash; Computer Village Ikeja's premier modern technology sourcing, daily market pricing, and Apple-style catalog engine.
   - **SabiTrade** ([sabi-trade.vercel.app](https://sabi-trade.vercel.app/)) &mdash; Nigeria's mobile-first vocational education and localized trade gig engine with offline PWA curriculum and WhatsApp matching telemetry.
   - **Fubbox** ([fubbox.com](https://fubbox.com/)) &mdash; Pioneering staple grocery and kitchen essential subscription service across Lagos with modular bundle builders and Save & Pay installments.
-- 🔭 **Senior Engineering:** Senior Web Developer at **Fat Rooster** (`@fatrooster.ng`), Full-Stack Web Engineer at **Amaoso Solar Technology**, and creator of **StudyDesk** ([studydesk-ochre.vercel.app]([(https://studyingdesk.vercel.app/)])).
+- 🔭 **Senior Engineering:** Senior Web Developer at **Fat Rooster** (`@fatrooster.ng`), Full-Stack Web Engineer at **Amaoso Solar Technology**, and creator of **StudyDesk** ([studydesk-ochre.vercel.app]((https://studyingdesk.vercel.app/))).
 - ⚙️ **Core Architectural Focus:** Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, real-time bidirectional WebSockets, offline-first PWAs, and high-conversion commercial checkout funnels.
 - 🔬 **The Physics Edge:** Approaching software through physical intuition—viewing application state as thermodynamic equilibria, network traffic as fluid dynamics, and database queries as optimal trajectories.
 - ⚡ **Hardware Mastery:** Specialized in Apple MacBook logic board repairs, micro-soldering, and component-level electronics diagnostics (trained at **IFEOTECH**).
